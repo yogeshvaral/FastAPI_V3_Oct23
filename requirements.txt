@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pydantic
 python-dateutil
+geopy
+https
+requests
+anyio
