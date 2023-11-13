@@ -1,0 +1,19 @@
+source C:/ProgramData/Anaconda3/Scripts/activate talkpythonv3
+
+uvicorn main:app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources - 
+Awsome ASGI -for further learning
